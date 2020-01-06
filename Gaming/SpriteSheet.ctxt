@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ss
+comment0.target=SpriteSheet(java.awt.image.BufferedImage)
+comment1.params=col\ row\ width\ height
+comment1.target=java.awt.image.BufferedImage\ grabImage(int,\ int,\ int,\ int)
+numComments=2

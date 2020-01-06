@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ll
+comment0.target=LogoSheet(java.awt.image.BufferedImage)
+comment1.params=col\ row\ width\ height
+comment1.target=java.awt.image.BufferedImage\ grabImage2(int,\ int,\ int,\ int)
+numComments=2
